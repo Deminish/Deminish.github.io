@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+
+title: Money Blog
+description: How I (and you) made some easy money
